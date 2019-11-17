@@ -1,8 +1,8 @@
 <%@ taglib prefix="tags" uri="/WEB-INF/lib/JMyTEITag.tld"%>
 
-<tags:tTag>
+<%-- <tags:tTag>
 <%=test1%></br>
 
 </tags:tTag>
 <hr>
-<%=test2 %>
+<%=test2 %> --%>
